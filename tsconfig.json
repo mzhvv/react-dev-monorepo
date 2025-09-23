@@ -4,7 +4,7 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/demo-e2e"
+      "path": "./apps/react-dev"
     },
     {
       "path": "./apps/demo"
