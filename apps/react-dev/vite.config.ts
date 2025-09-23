@@ -28,6 +28,8 @@ export default defineConfig(() => ({
     },
   },
   test: {
+    passWithNoTests: true,
+
     name: '@react-dev-monorepo/react-dev',
     watch: false,
     globals: true,
